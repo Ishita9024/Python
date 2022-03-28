@@ -1,0 +1,16 @@
+[
+    {
+        "user": [
+            {
+                "username": "ishu",
+                "password": "vishu@123",
+                "profile": {
+                    "description": "choco",
+                    "dob": "12/02/2002",
+                    "hobbies": "dance",
+                    "gender": "F"
+                }
+            }
+        ]
+    }
+]
